@@ -1,0 +1,62 @@
+[
+    {
+        "Numero": 1,
+        "Nome": "Bloom",
+        "Descricao": "Protagonista principal da série e a líder do Clube das Winx, bem como tambem é a princesa e a Fada Guardiã de Domino e da Chama do Dragão.",
+        "Poder": "Chama do Dragão, Fogo e sua Manipulação/Controle, Habilidades de Cura",
+        "Imagem": "\\img\\Bloom.png"
+    },
+    {
+        "Numero": 2,
+        "Nome": "Aisha",
+        "Descricao": "Aisha é extremamente teimosa e de mente aberta. Ela é tão intuitiva como Stella , e quando solicitada, dá conselhos práticos e pragmáticos.",
+        "Poder": "Manipulação do Morphix, da Água (controlar e criar a água) e de Fluidos Hidrocinese.",
+        "Imagem": "\\img\\Aisha.png" 
+    },
+    {
+        "Numero": 3,
+        "Nome": "Flora",
+        "Descricao": "Fada da Natureza, e é uma das melhores amigas de Bloom. Flora é uma garota doce e gentil.",
+        "Poder": "Poder da natureza.",
+        "Imagem": "\\img\\Flora.png"
+    },
+    {
+        "Numero": 4,
+        "Nome": "Stella",
+        "Descricao": "Filha do Sol e da Lua; Princesa de Solária (portanto é a guardiã do Anel de Solária), e ela é a melhor amiga de Bloom; Fada do Sol Reluzente.",
+        "Poder": "Expressão da visão interior, visão, intuição e clareza. Poderes baseados no Sol e na Lua.",
+        "Imagem": "\\img\\Stella.png"
+
+    },
+    {
+        "Numero": 5,
+        "Nome": "Musa",
+        "Descricao": "Fada da música, ela nasceu em melody. Musa faz muita coisa, ela dança, canta e toca todos os instrumentos, mas o seu favorito é a flauta de concerto.",
+        "Poder": "Manipulação de ondas e pressão sonora e capacidade de sonar.",
+        "Imagem": "\\img\\Musa.png"
+
+    },
+    {
+        "Numero": 6,
+        "Nome": "Tecna",
+        "Descricao": "Fada e Guardiã da Tecnologia, do planeta Zenith, estudante de Alfea e caloura em Ciência da computação na UFPA.",
+        "Poder": "Baseados na tecnologia e energia digital, Eletrocinese.",
+        "Imagem": "\\img\\Tecna.png"
+    },
+    {
+        "Numero": 7,
+        "Nome": "Sky",
+        "Descricao": "Rei de Eraklion, anteriormente o príncipe e herdeiro e namorado de Bloom.",
+        "Habilidade": "Luta com espada.",
+        "Imagem": "\\img\\Sky.png"
+    },
+    {
+        "Numero": 8,
+        "Nome": "Brandon",
+        "Descricao": "Escudeiro e guarda-costas de Sky e namorado de Stella.",
+        "Habilidade": "Luta com espada (Espadachim).",
+        "Imagem": "\\img\\Brandon.png"
+
+    }
+    
+]
