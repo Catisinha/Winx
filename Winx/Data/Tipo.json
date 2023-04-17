@@ -1,0 +1,30 @@
+[
+    {
+        "Nome":"Água",
+        "Cor": "#00FFFF"
+    },
+    {
+        "Nome":"Fogo",
+        "Cor": "#E32636"
+    },
+        {
+        "Nome":"Terra",
+        "Cor": "#A7F432"
+    },
+    {
+        "Nome":"Luz",
+        "Cor": "#FFFF00"
+    },
+    {
+        "Nome":"Música",
+        "Cor": "#6A5ACD"
+    },
+    {
+        "Nome":"Tecnologia",
+        "Cor": "#F400A1"
+    },
+    {
+        "Nome":"Espada",
+        "Cor": "#708090"
+    }
+]
