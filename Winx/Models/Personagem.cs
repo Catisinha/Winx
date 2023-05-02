@@ -1,6 +1,6 @@
 namespace Winx.Models;
 
-    public class WinxDto
+    public class Personagem
     {
         public List<Personagem> Personagens {get; set;}
     }
