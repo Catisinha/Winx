@@ -6,5 +6,5 @@ namespace Winx.Services;
         List<Personagem> GetPersonagens();
         Personagem GetPersonagem(int Numero);
         WinxDto GetWinxDto();
-        DetailsDto GetDetailedPersonagem(int numero);
+        DetailsDto GetDetailedPersonagem(int Numero);
     }
